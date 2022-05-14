@@ -12,6 +12,8 @@ Next languages will be supported soon:
 - Spanish
 - French
 
+Note: We're currently prioritizing introducing new languages based on community requests. So, if you wish to add request a new language, then please contact us [here](https://addreminders.github.io/contact-us) 
+
 ## Contributing guidelines
 
 If you have any questions or suggestions, please open an issue or a pull request on this repo. You can find all the translation files inside the 'i18n' folder. Couple of things to keep in mind:
