@@ -17,3 +17,5 @@ Next languages will be supported soon:
 If you have any questions or suggestions, please open an issue or a pull request on this repo. You can find all the translation files inside the 'i18n' folder. Couple of things to keep in mind:
 - The file name should be in the format of '<language>.json' where '<language>' is the language code (i18n format, the same which Rocket.Chat uses).
 - Some translation strings might be parameterized, so you should use the '__parameter__' to insert the parameters. Also note that the parameter name should not be changed in the translation files and it should always be the same as the one in the en.json file.
+
+**Note: Once any translation suggestions are merged to the main branch, we'll create a new app release which you'll be able to download and install & use the updated translations.**
