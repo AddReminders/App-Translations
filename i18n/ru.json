@@ -35,7 +35,7 @@
 	"direct_message_with_participants": "Личная беседа с __participants__",
 	"do_not_repeat": "Не повторять",
 	"error": "Ошибка!",
-	"error_add_reminder_message_box_action_failed": "Something went wrong. Please try again later or use the /remind command to create a reminder manually.",
+	"error_add_reminder_message_box_action_failed": "Что-то пошлоне так. Пожалуйста попроуйте позже или используйте команду /remind чтобы создать напоминание вручную.",
 	"error_unable_to_find_reminder": "Sorry, We were unable to find the reminder, perhaps it was deleted?",
 	"every_2_weeks": "каждые 2 недели",
 	"every_3_weeks": "каждые 3 недели",
