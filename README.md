@@ -7,6 +7,7 @@ Currently supported Languages:
 1. English
 2. Portuguese
 3. German
+4. Russian
 
 Next languages will be supported soon:
 - Spanish
