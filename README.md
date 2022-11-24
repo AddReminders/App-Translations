@@ -10,11 +10,7 @@ Currently supported Languages:
 4. Russian
 5. Polish
 
-Next languages will be supported soon:
-- Spanish
-- French
-
-Note: We're currently prioritizing introducing new languages based on community requests. So, if you wish to add request a new language, then please contact us [here](https://addreminders.github.io/contact-us) 
+Note: We're currently prioritizing introducing new languages based on community requests. So, if you wish to add request a new language, then please contact us [here](https://add-reminders.gitbook.io/docs/contact-us) 
 
 ## Contributing guidelines
 
